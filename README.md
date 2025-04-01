@@ -21,7 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/696678719820922940" alt="Discord" title="Discord"><img width="40px" src="https://user-images.githubusercontent.com/115887342/257205015-ab405bbc-1dfc-43db-89f8-5b02457f3f2d.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/SulimanSagindykov"><img width="40px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/115887342/257205307-fd042600-d9c9-4fa9-b4ee-35d95a562fdf.png"></a>
+  <a href="https://github.com/sagindykovsl"><img width="40px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/115887342/257205307-fd042600-d9c9-4fa9-b4ee-35d95a562fdf.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/sagindykovsl/"><img width="40px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/115887342/257205009-ec93cfee-9837-446c-b070-4d7f7aca0f78.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
